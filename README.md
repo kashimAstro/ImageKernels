@@ -1,3 +1,3 @@
-#Image Kernels
+# Image Kernels
 
-<img src="image-kernel.png"/>
+<img src="kernels.png"/>
